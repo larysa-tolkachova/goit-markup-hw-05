@@ -560,11 +560,12 @@ font-weight: 500;
 
 
 
-.footer-button-cont {
+/*.footer-button-cont {
     position: relative;
-}
+}*/
 
 .footer-button {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
