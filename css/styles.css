@@ -560,16 +560,12 @@ font-weight: 500;
 
 
 
-/*.footer-button-cont {
-    position: relative;
-}*/
-
 .footer-button {
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 165px;
+    min-width: 165px;
     height: 40px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
