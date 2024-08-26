@@ -540,7 +540,7 @@ font-weight: 500;
 
 .footer-form {
     display: flex;
-    gap 24px    
+    gap 24px;    
 }
 
 .footer-form-input {
