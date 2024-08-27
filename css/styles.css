@@ -470,16 +470,6 @@ font-weight: 500;
 .footer-lt {
     margin-right: 120px
 }
-.logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    
-}
 
 .logo-f {
     color: #f4f4fd;
@@ -558,13 +548,10 @@ font-weight: 500;
     color: #ffffff; 
 }
 
-
-
 .footer-button {
     position: relative;
     display: flex;
     align-items: center;
-    justify-content: center;
     min-width: 165px;
     height: 40px;
     font-family: "Roboto", sans-serif;
@@ -577,7 +564,7 @@ font-weight: 500;
     background-color: #4d5ae5;
     border: none;
     border-radius: 4px;
-    
+    padding-left: 24px;
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
